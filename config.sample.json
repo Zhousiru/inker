@@ -1,0 +1,8 @@
+{
+    "apiAddr": "127.0.0.1:80",
+    "key": "key",
+    "normalTokenLifetime": 86400,
+    "rememberTokenLifetime": 604800,
+    "mongoURI": "mongodb://localhost:27017",
+    "dbName": "inker"
+}
